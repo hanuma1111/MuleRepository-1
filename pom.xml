@@ -33,16 +33,16 @@
 				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
-				<cloudHubDevelopment>
+				<cloudHubDeployment>
 				<muleVersion>${app.runtime}</muleVersion>
-				<username>hanuma1111</username>
-				<password>Hanuma@272048</password>
+				<username>hanuma1111_3</username>
+				<password>Hanuma@123</password>
 				<environment>Sandbox</environment>
-				<workerType>micro</workerType>
+				<workerType>Micro</workerType>
 				<workers>1</workers>
 				<uri>https://anypoint.mulesoft.com</uri>
-				<applicationName>MUleApiSpecification-1</applicationName>
-				</cloudHubDevelopment>
+				<applicationName>hanuma-greetings-project</applicationName>
+				</cloudHubDeployment>
 				</configuration>
 			<executions>
 				<execution>
