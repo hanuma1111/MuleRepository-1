@@ -41,7 +41,7 @@
 				<workerType>micro</workerType>
 				<workers>1</workers>
 				<uri>https://anypoint.mulesoft.com</uri>
-				<applicationName></applicationName>
+				<applicationName>MUleApiSpecification-1</applicationName>
 				</cloudHubDevelopment>
 				</configuration>
 			<executions>
